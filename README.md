@@ -1,4 +1,4 @@
 # POWER-BI
-[YOUR LINK HERE](https://youtu.be/d9NlYM8JVMo)
-[Your LINK HERE](https://youtu.be/bNQu7SGyAKE)
-[YOUR LINK HERE](https://youtu.be/4umr2DrXBU4)
+[YOUR LINK HERE - Sample Store](https://youtu.be/d9NlYM8JVMo)
+[Your LINK HERE - Timeline Analysis Covid 19](https://youtu.be/bNQu7SGyAKE)
+[YOUR LINK HERE -Prediction using supervised ML - SAS](https://youtu.be/4umr2DrXBU4)
